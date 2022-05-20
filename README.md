@@ -4,7 +4,7 @@ Joanna Broniarek
 
 ![kaggle-image](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
 
-**My best score on the Kaggle Leaderboard: 0.11329**
+**My best score on the Kaggle Leaderboard: 0.14906**
 
 ## Description
 
